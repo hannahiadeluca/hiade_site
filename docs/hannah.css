@@ -1,0 +1,59 @@
+body {
+
+    font-family: Optima, sans-serif;
+    padding: 4em;
+    
+
+}
+
+nav ul {
+
+    list-style-type: none;
+    text-align: right;
+    background-color: #ab9ead
+
+}
+
+
+nav ul li {
+
+
+    display: inline;
+    padding-left: 5em;
+
+
+}
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+
+div.frontpage {
+
+
+    display: flex
+
+
+}
+
+img#hannah {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 20%
+}
